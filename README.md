@@ -1,1 +1,1 @@
-# ghmos.github.io
+# mazln.github.io
