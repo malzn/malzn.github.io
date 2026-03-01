@@ -1,1 +1,1 @@
-# mazln.github.io
+# malzn.github.io
